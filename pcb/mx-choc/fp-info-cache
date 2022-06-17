@@ -1,148 +1,92 @@
-34447538286966
-Jumper
-SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
-net tie solder jumper bridged
+21457403976959
+fingerpunch
+Connector_THT_1x4_2.54
+
+
 0
-2
-2
-Jumper
-SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 2 copper strips
-net tie solder jumper bridged
-0
-2
-2
-Jumper
-SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 1 copper strip
-net tie solder jumper bridged
-0
-2
-2
-Jumper
-SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip
-net tie solder jumper bridged
-0
-2
-2
-Jumper
-SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
-solder jumper open
-0
-2
-2
-Jumper
-SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
-solder jumper open
-0
-2
-2
-Jumper
-SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
-solder jumper open
-0
-2
-2
-Jumper
-SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm
-SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
-net tie solder jumper bridged
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm_NumberLabels
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
-net tie solder jumper bridged
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
-net tie solder jumper bridged
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm_NumberLabels
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
-net tie solder jumper bridged
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm
-SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
-net tie solder jumper bridged
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
-net tie solder jumper bridged
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
-net tie solder jumper bridged
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
-net tie solder jumper bridged
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm
-SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, open
-solder jumper open
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels
-SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open, labeled with numbers
-solder jumper open
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open
-solder jumper open
-0
-3
-3
-Jumper
-SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels
-SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open, labeled with numbers
-solder jumper open
-0
-3
-3
-Jumper
-SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm
-SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
-solder jumper open
+4
+4
+fingerpunch
+Connector_THT_1x5_2.54
+
+
 0
 5
-3
-Jumper
-SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels
-SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open, labeled with numbers
-solder jumper open
-0
 5
-3
+fingerpunch
+Connector_THT_1x6_2.54
+
+
+0
+6
+6
+fingerpunch
+Connector_THT_1x7_2.54
+
+
+0
+7
+7
+fingerpunch
+FPC-SMD_FPC05012-09200-.5mm-rev
+
+
+0
+14
+14
+fingerpunch
+Kailh_socket_MX-ChocV1
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+4
+2
+fingerpunch
+MXMountLP-1U
+
+
+0
+6
+2
+fingerpunch
+fingerpunch-logo
+
+
+0
+0
+0
+fingerpunch
+fingerpunch-logo-full
+
+
+0
+0
+0
+fingerpunch
+fingerpunch-logo-small
+
+
+0
+0
+0
+fingerpunch
+gateron-ks27
+
+
+0
+2
+2
+fingerpunch
+gateron-ks27-choc-v1
+
+
+0
+4
+2
+fingerpunch
+gateron-ks27-choc-v1-hotswap
+
+
+0
+4
+2
