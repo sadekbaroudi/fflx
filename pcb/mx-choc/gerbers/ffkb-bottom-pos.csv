@@ -78,7 +78,7 @@ Designator,Val,Package,"Mid X","Mid Y",Rotation,Layer
 "D88","B5819W","D_SOD-123",-11.546632,-33.104180,0.000000,bottom
 "D89","LED","LED_0402_1005Metric",-140.646635,-76.704178,90.000000,bottom
 "F1","1A Fuse","Fuse_0805_2012Metric",-16.646633,-33.304178,180.000000,bottom
-"J2","USB C Connector","USB_C_Receptacle_HRO_TYPE-C-31-M-12",-12.846637,-24.644185,0.000000,bottom
+"J2","USB C Connector","USB_C_Receptacle_HRO_TYPE-C-31-M-12",-12.876637,-21.144185,0.000000,bottom
 "J3","Conn_01x12_Female","FPC-SMD_FPC05012-09200-.5mm-rev",-137.846632,-105.034184,0.000000,bottom
 "R1","4.7k","R_0805_2012Metric",-124.946631,-85.804183,180.000000,bottom
 "R2","4.7k","R_0805_2012Metric",-124.946628,-80.904187,180.000000,bottom
