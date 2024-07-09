@@ -1,0 +1,9 @@
+# fflx
+
+A 42 key keyboard that's compatible with standard 60% keyboard cases
+
+## LICENSE
+
+Free to use for personal use only. Any derivitive work must reference the author by name, link to [this repository](https://github.com/sadekbaroudi/fflx), and propagate this license text. No commercial use of this work or any of its derivatives.
+
+THE CONTENT OF THIS REPOSITORY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE/HARDWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE/HARDWARE.
